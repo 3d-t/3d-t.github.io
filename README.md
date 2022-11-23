@@ -1,6 +1,6 @@
 # 3D-T: Spacetime monitoring and control
 
-This is the website for a plaform for integrating the Internet of Things, Machine learning and Digital Twins. It includes the following functionality:
+This is a website for a new platform for integrating the IoT, Machine learning and Digital Twins for time-based and location-based data.  The platform is under active development and includes the following functionality:
 
 * Importing JSON and CSV data sources.
 * Connecting to IoT devices and platforms.
