@@ -11,6 +11,7 @@ This is the website for a plaform for integrating the Internet of Things, Machin
 * Visualization of time- and location-based data in charts and maps.
 * 3D visualization of IoT parameters via GLTF or IFC BIM models.
 * 3D visualization of IoT parameters using a built-in solid modeler with a visual programming environment.
+* Deployment with Kubernetes on Odroid, Raspberry, Linux and cloud platforms.
 
 
-For more information visit `https://3d-t.github.io`.
+For screenshots and more information visit [https://3d-t.github.io](https://3d-t.github.io).
