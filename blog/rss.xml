@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>3D-T : Spacetime monitoring and control  Blog</title>
+        <title>Digital Twin as a Service Blog</title>
         <link>https://axxem.nl/blog</link>
-        <description>3D-T : Spacetime monitoring and control  Blog</description>
+        <description>Digital Twin as a Service Blog</description>
         <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
