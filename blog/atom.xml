@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://axxem.nl/blog</id>
-    <title>Digital Twin in a Box Blog</title>
+    <title>SpaceTime: A Digital Twin in a Box Blog</title>
     <updated>2019-05-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://axxem.nl/blog"/>
-    <subtitle>Digital Twin in a Box Blog</subtitle>
+    <subtitle>SpaceTime: A Digital Twin in a Box Blog</subtitle>
     <icon>https://axxem.nl/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
